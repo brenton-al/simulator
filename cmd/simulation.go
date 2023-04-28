@@ -6,10 +6,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/NextronSystems/ransomware-simulator/lib/encrypt"
-	"github.com/NextronSystems/ransomware-simulator/lib/note"
-	"github.com/NextronSystems/ransomware-simulator/lib/shadowcopy"
-	"github.com/NextronSystems/ransomware-simulator/lib/simulatemacro"
+	"github.com/brenton-al/simulator/lib/encrypt"
+	"github.com/brenton-al/simulator/lib/note"
+	"github.com/brenton-al/simulator/lib/shadowcopy"
+	"github.com/brenton-al/simulator/lib/simulatemacro"
 
 	"github.com/secDre4mer/go-parseflags"
 	"github.com/spf13/cobra"
