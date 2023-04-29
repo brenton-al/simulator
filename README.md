@@ -5,7 +5,7 @@
     / /_/ // // // // __//  '_// _  |/ // // __//  '_/
     \___\_\\_,_//_/ \__//_/\_\/____/ \_,_/ \__//_/\_\ 
     
-    Nextron Systems GmbH
+    
 
 The goal of this repository is to provide a simple, harmless way to check your AV's protection on ransomware.
 
