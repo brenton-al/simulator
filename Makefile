@@ -3,5 +3,5 @@ quickbuck.exe: export GOOS=windows
 quickbuck.exe: export GOARCH=amd64
 
 quickbuck.exe:
-	go build -o $@ ./cmd
+	go build -o simulator.exe ./cmd
 
